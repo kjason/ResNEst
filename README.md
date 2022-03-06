@@ -1,6 +1,6 @@
 # ResNEsts and DenseNEsts: Block-based DNN Models with Improved Representation Guarantees
 
-This repository is the official implementation of the empirical research presented in the supplementary material of the paper, [ResNEsts and DenseNEsts: Block-based DNN Models with Improved Representation Guarantees](#BibTex).
+This repository is the official implementation of the empirical research presented in the supplementary material of the paper, [ResNEsts and DenseNEsts: Block-based DNN Models with Improved Representation Guarantees](https://arxiv.org/abs/2111.05496).
 
 ## Requirements
 
@@ -14,7 +14,7 @@ pip install -r requirements.txt
 
 Create a folder to store all the models and results:
 ```
-mkdir ckeckpoint
+mkdir checkpoint
 ```
 
 ## Training

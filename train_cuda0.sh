@@ -6,8 +6,6 @@ device=cuda:0
 CIFAR10_model_list=(
 CIFAR10_Standard_ResNet_110
 CIFAR10_Standard_ResNet_20
-CIFAR10_Standard_ResNet_110
-CIFAR10_Standard_ResNet_20
 CIFAR10_Standard_WRN_16_8
 CIFAR10_Standard_WRN_40_4
 CIFAR10_BNResNEst_ResNet_110
