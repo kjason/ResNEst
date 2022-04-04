@@ -2,6 +2,9 @@
 
 This repository is the official implementation of the empirical research presented in the supplementary material of the paper, [ResNEsts and DenseNEsts: Block-based DNN Models with Improved Representation Guarantees](https://arxiv.org/abs/2111.05496).
 
+
+* Download the paper from [NeurIPS website](https://proceedings.neurips.cc/paper/2021/hash/1bf50aaf147b3b0ddd26a820d2ed394d-Abstract.html) or [arXiv](https://arxiv.org/abs/2111.05496).
+
 ## Requirements
 
 To install requirements:
@@ -90,6 +93,9 @@ All pretrained models can be downloaded from [this Google Drive link](https://dr
   title={{ResNEsts} and {DenseNEsts}: Block-based {DNN} Models with Improved Representation Guarantees},
   author={Chen, Kuan-Lin and Lee, Ching-Hua and Garudadri, Harinath and Rao, Bhaskar D.},
   booktitle={Advances in Neural Information Processing Systems (NeurIPS)},
+  pages = {3413--3424},
+  url = {https://proceedings.neurips.cc/paper/2021/file/1bf50aaf147b3b0ddd26a820d2ed394d-Paper.pdf},
+  volume = {34},
   year={2021}
 }
 ```
